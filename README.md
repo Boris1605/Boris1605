@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 UpLeveled bootcamp student<br>🎯 Goals: becoming the best Developer I can be, learn as much as possible<br>🎲 Fun fact: Obsessed with Basketball 🏀<br>📫 How to reach me boris_djuric@hotmail.com</p>
+<p align="left">🎓 UpLeveled bootcamp graduate<br>🎯 Goals: becoming the best Developer I can be, learn as much as possible<br>🎲 Fun fact: Obsessed with Basketball 🏀<br>📫 How to reach me boris_djuric@hotmail.com</p>
 
 ###
 
